@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+
+	color: white;
+	font-family: Arial;
+	font-size: 12px;
+	background-image: url("bg.jpg");
+	background-size: cover;
+
+}
+
+#fb
+{
+	top: 270px;
+	left: 580px;
+	width: 250px;
+	height: 40px;
+}
+#logout
+{
+	bottom: 85px;
+    left: 585px;
+    position: absolute;
+    
+	width: 120px;
+	height: 40px;
+	background: transparent;
+	border: 1px solid #FFCC00 ;
+	border-radius: 5px ;
+	color: #FFCC00;
+	font-family: 'Exo', sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+	padding: 4px;
+
+}

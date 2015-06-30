@@ -1,0 +1,178 @@
+/*.body{
+	position: absolute;
+	top: -20px;
+	left: -20px;
+	right: -40px;
+	bottom: -40px;
+	width: auto;
+	height: auto;
+	
+	
+	z-index: 0;
+}*/
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+
+	color: white;
+	font-family: Arial;
+	font-size: 12px;
+	background-image: url("bg.jpg");
+	background-size: cover;
+
+}
+
+.menu
+{
+	color: white;
+}
+
+.content
+{
+	display: block;
+	width: 150px;
+	height: 36px;
+	background: transparent;
+	/*border: 1px solid rgba(255,255,255,0.6);
+	border-radius: 2px;*/
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	padding: 5px;
+	margin-top: 10px;
+	text-decoration: none;
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#show{
+
+	width:  212px;
+	height: 58px;
+	background: transparent;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 25px;
+	font-weight: 1000;
+	padding: 4px;
+	
+	border: 1px solid ;
+	border-radius: 2px;
+	border-color: #FFCC00  #FFCC00 #FFCC00   rgba(46, 0, 0,0.1)  ;
+	/*text-align: right;*/
+}
+
+
+#heading
+{
+	position: absolute;
+	left: 540px;
+	top:1px;
+	font-size: 75px;
+	font-weight: 400;
+	font-family: 'Comic Sans MS', sans-serif;
+	color: #FFCC00;
+
+}
+#menu1{
+	
+
+	width: 160px;
+    padding: 25px;
+    border: 1px solid ;
+    height: 550px;
+    border-color: rgba(46, 0, 0,0.1)  #FFCC00 rgba(46, 0, 0,0.1)   rgba(46, 0, 0,0.1)  ;
+    
+
+}
+#answer{
+	bottom: 140px;
+    left: 360px;
+    position: absolute;
+    
+	width: 700px;
+	height: 35px;
+	background: transparent;
+	border: 2.5px solid #FFCC00 ;
+	border-radius: 5px ;
+	color: #66A3FF;
+	font-family: 'Exo', sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+	padding: 4px;
+
+
+}
+
+
+#result
+{
+	bottom: 85px;
+    left: 630px;
+    position: absolute;
+    
+	width: 120px;
+	height: 40px;
+	background: transparent;
+	border: 1px solid #FFCC00 ;
+	border-radius: 5px ;
+	color: #FFCC00;
+	font-family: 'Exo', sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+	padding: 4px;
+
+	
+}
+#question{
+
+	top: 210px;
+    left: 370px;
+    position: absolute;
+    
+	width: 730px;
+	height: 250px;
+	/*border: 1px solid #FFCC00 ;
+	background: transparent;*/
+	font-size: 35px;
+	font-weight: 300;
+	font-family: 'Comic Sans MS', sans-serif;
+	color: #FFCC00;
+
+}
+
+
+
+
+
+button[type=submit]:hover{
+	opacity: 0.8;
+}
+
+button[type=submit]:active{
+	opacity: 0.6;
+}
+
+ #answer:focus{
+	outline: none;
+	border: 2.5px solid #FFCC00;
+}
+
+ 
+
+ button[type=submit]:focus{
+	outline: none;
+}
+::-webkit-input-placeholder{
+   color: #FFCC00;
+
+::-moz-input-placeholder{
+   color: #FFCC00;
+}
+
