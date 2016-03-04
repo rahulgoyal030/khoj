@@ -1,0 +1,919 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"location"
+			],
+			[
+				"hos",
+				"hospital_result"
+			],
+			[
+				"actio",
+				"ActionListener"
+			],
+			[
+				"API",
+				"api_result"
+			],
+			[
+				"s",
+				"suggestion"
+			],
+			[
+				"su",
+				"suggestions"
+			],
+			[
+				"da",
+				"data1"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"med",
+				"medicine_suggestions"
+			],
+			[
+				"me",
+				"medicine_suggestions"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"co",
+				"consumer"
+			],
+			[
+				"acco",
+				"accordingly"
+			],
+			[
+				"so",
+				"solution"
+			],
+			[
+				"compa",
+				"companies"
+			],
+			[
+				"sub",
+				"submitReport"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"dis",
+				"disqus"
+			],
+			[
+				"mark",
+				"mark2"
+			],
+			[
+				"se",
+				"sess"
+			],
+			[
+				"ses",
+				"session"
+			],
+			[
+				"o",
+				"obj_id"
+			],
+			[
+				"i",
+				"_id"
+			],
+			[
+				"tw",
+				"tweetid"
+			],
+			[
+				"l",
+				"likes"
+			],
+			[
+				"li",
+				"like"
+			],
+			[
+				"t",
+				"tweetId"
+			],
+			[
+				"im",
+				"imgVal"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"new",
+				"newElement"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"mi",
+				"minesy"
+			],
+			[
+				"mine",
+				"minesy"
+			],
+			[
+				"mo",
+				"movey"
+			],
+			[
+				"mov",
+				"movey"
+			],
+			[
+				"m",
+				"movex"
+			],
+			[
+				"poo",
+				"possibleMoves"
+			],
+			[
+				"po",
+				"possibleMoves"
+			],
+			[
+				"st",
+				"stack"
+			],
+			[
+				"fla",
+				"flag2"
+			],
+			[
+				"my",
+				"myx"
+			],
+			[
+				"flag",
+				"flag1"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"pla",
+				"playery"
+			],
+			[
+				"pl",
+				"playerx"
+			],
+			[
+				"C",
+				"count"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"_",
+				"_id"
+			],
+			[
+				"te",
+				"tweet"
+			],
+			[
+				"twe",
+				"tweetTime"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"us",
+				"usersList"
+			],
+			[
+				"Re",
+				"result"
+			],
+			[
+				"u",
+				"usersList"
+			],
+			[
+				"user",
+				"usersList"
+			],
+			[
+				"tweet",
+				"tweetTable1"
+			],
+			[
+				"coll",
+				"collection1"
+			],
+			[
+				"twee",
+				"tweetTable"
+			],
+			[
+				"d",
+				"docs"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"use",
+				"usersList"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"person",
+				"personName"
+			],
+			[
+				"fol",
+				"followThem"
+			],
+			[
+				"pe",
+				"person"
+			],
+			[
+				"a",
+				"actionClick"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"y",
+				"y_axis_initial"
+			],
+			[
+				"Se",
+				"SetY"
+			],
+			[
+				"username",
+				"username1"
+			],
+			[
+				"loca",
+				"Location"
+			],
+			[
+				"p",
+				"preventDefault"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"Nul",
+				"is_null"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pro",
+				"projectName"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"gt",
+				"getElementById"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"ob",
+				"objective"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fl",
+				"flag4"
+			],
+			[
+				"level",
+				"levelCheck"
+			],
+			[
+				"le",
+				"level1"
+			],
+			[
+				"var",
+				"varname"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"fi",
+				"fin"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"ch",
+				"ch2"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"spe",
+				"speedConstant"
+			],
+			[
+				"val",
+				"valueS"
+			],
+			[
+				"sp",
+				"speedConstant"
+			],
+			[
+				"eve",
+				"Event"
+			],
+			[
+				"ev",
+				"Event"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"ff",
+				"FFCC00"
+			],
+			[
+				"pi",
+				"position"
+			],
+			[
+				"pass",
+				"pass1"
+			],
+			[
+				"pas",
+				"pass1"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"post",
+				"postPosition"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"text",
+				"textArea"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ke",
+				"KeyEvent"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"rb",
+				"rb2"
+			],
+			[
+				"JF",
+				"JFileChooser"
+			],
+			[
+				"set",
+				"setForeColor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"node server.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/docs/ML_project.txt",
+		"/E/docs/deep_learning.txt",
+		"/E/docs/c++/gcd2.c",
+		"/E/docs/c++/powerlastdigit.c",
+		"/E/docs/c++/prime1.c",
+		"/E/Confirmation TUA4GJ GOAIR.html",
+		"/E/docs/c++/binaryrecursion.c",
+		"/C/Users/HP/Desktop/Suraj goes shopping _ CodeChef.html",
+		"/E/docs/c++/primesum.c",
+		"/E/docs/c++/binaryseach.c",
+		"/E/docs/c++/prime.c",
+		"/E/docs/c++/kmp2.c",
+		"/E/docs/c++/POWER.C",
+		"/E/docs/apps/HealersAtHome/package.json",
+		"/E/docs/apps/HealersAtHome/db/connect.js",
+		"/E/docs/apps/HealersAtHome/db/indexUser.js",
+		"/E/docs/games/clickme/clickMe/clickme.java",
+		"/E/docs/games/clickme/clickme.java",
+		"/E/docs/games/clickme/README.md",
+		"/E/docs/python/abc.py",
+		"/E/docs/node/node_test_app/package.json",
+		"/C/Users/HP/Desktop/cohack/views/a.ejs",
+		"/C/Users/HP/Desktop/HealersAtHome/package.json",
+		"/C/Users/HP/Desktop/cohack/public/js/mytomorrows-javascript-sdk.js",
+		"/C/Users/HP/Desktop/HealersAtHome/views/api_result",
+		"/C/Users/HP/Desktop/cohack/npm-debug.log",
+		"/C/Users/HP/Desktop/cfiNoida/location.html",
+		"/C/Users/HP/Desktop/HealersAtHome/routes/index.js",
+		"/C/Users/HP/Desktop/cohack/app.js",
+		"/C/Users/HP/Desktop/HealersAtHome/public/js/bot.js",
+		"/C/Users/HP/Desktop/HealersAtHome/views/chatBot.ejs",
+		"/E/docs/node/node_test_app/views/index.ejs",
+		"/C/Users/HP/Desktop/HealersAtHome/routes/api_router.js",
+		"/C/Users/HP/Desktop/cohack/package.json",
+		"/C/Users/HP/Desktop/cohack/a.ejs",
+		"/E/docs/node/node_test_app/app.js",
+		"/C/Users/HP/Desktop/tips.txt",
+		"/C/Users/HP/Desktop/tips",
+		"/C/xampp/htdocs/canvas/a.html",
+		"/C/xampp/htdocs/khoj/index.php",
+		"/C/Users/HP/Desktop/cfiNoida/db/index.js",
+		"/C/Users/HP/Desktop/cfiNoida/views/fbsdk.html",
+		"/C/Users/HP/Desktop/cfiNoida/views/checkfb.ejs",
+		"/C/Users/HP/Desktop/cfiNoida/routes/index.js",
+		"/E/docs/node/node_test_app/views/dicuss.ejs",
+		"/C/Users/HP/Desktop/one.wav",
+		"/C/Users/HP/Desktop/taj.txt",
+		"/C/Users/HP/Desktop/a.html",
+		"/C/Users/HP/Desktop/cfi/canvas.html",
+		"/C/xampp/htdocs/khoj/index.js",
+		"/C/Users/HP/Desktop/cfiNoida/views/canvas.html",
+		"/E/rahul/Pictures/10915277_10152731112011299_5739004538092296134_n.jpg",
+		"/C/Users/HP/Desktop/C-small-attempt0 (1).in",
+		"/C/Users/HP/Desktop/in11.txt",
+		"/C/Users/HP/Desktop/a.txt",
+		"/C/Users/HP/Desktop/abc.cpp",
+		"/C/Python27/abc.py",
+		"/E/docs/apps/twitter+/routes/likevalue.js",
+		"/E/docs/apps/twitter+/routes/signup.js",
+		"/E/docs/apps/twitter+/routes/index.js",
+		"/E/docs/apps/twitter+/public/js/tweet.js",
+		"/C/Users/HP/Desktop/bot1.cpp",
+		"/C/Users/HP/Desktop/bot.cpp",
+		"/C/Users/HP/Desktop/Problems - Sample App Challenge _ HackerEarth.html",
+		"/E/docs/apps/twitter+/public/css/homepage.css",
+		"/E/docs/apps/twitter+/public/css/style1.css",
+		"/E/docs/apps/twitter+/routes/login.js",
+		"/E/docs/apps/twitter+/public/js/usernamecheck.js",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/htdocs/resumemaker/download.php",
+		"/C/xampp/htdocs/resumemaker/js/newproject.js",
+		"/C/xampp/htdocs/resumemaker/css/style1.css",
+		"/C/xampp/htdocs/resumemaker/css/signup.css",
+		"/C/xampp/htdocs/resumemaker/css/style.css",
+		"/C/xampp/htdocs/resumemaker/js/myApp.js",
+		"/C/xampp/htdocs/resumemaker/js/controllers/controller.js",
+		"/C/xampp/htdocs/resumemaker/js/showsignup.js",
+		"/C/xampp/htdocs/resumemaker/js/signup.js",
+		"/C/xampp/htdocs/resumemaker/getuser.php",
+		"/C/xampp/htdocs/resumemaker/js/usernamecheck.js",
+		"/C/xampp/htdocs/resumemaker/index.php",
+		"/C/xampp/htdocs/khoj/check.php",
+		"/C/xampp/htdocs/myWeb/news.css",
+		"/C/xampp/htdocs/myWeb/post.php",
+		"/C/xampp/htdocs/myWeb/news.php",
+		"/C/xampp/htdocs/myWeb/login.php",
+		"/C/xampp/htdocs/resumemaker/logout.php",
+		"/C/xampp/htdocs/resumemaker/saveResume.php",
+		"/C/xampp/htdocs/resumemaker/js/submit.js",
+		"/C/xampp/htdocs/resumemaker/conectmysql.php",
+		"/C/xampp/htdocs/resumemaker/resume.php",
+		"/C/xampp/htdocs/resumemaker/signupaction.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/loadProfile.php",
+		"/C/xampp/htdocs/resumemaker/loginaction.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/index.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/testmysql.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/logout.php",
+		"/C/xampp/htdocs/khoj/level1.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/collegeLoginCheck.php",
+		"/C/xampp/htdocs/resumemaker/fpdf.php",
+		"/C/xampp/htdocs/resumemaker/js/preventDefault.js",
+		"/C/xampp/htdocs/myWeb/index.js",
+		"/C/xampp/htdocs/myWeb/index.html",
+		"/C/xampp/htdocs/myWeb/js/prefixfree.min.js",
+		"/C/xampp/htdocs/angular/app.js",
+		"/C/xampp/htdocs/angular/controller/controller.js",
+		"/C/xampp/htdocs/angular/services/service1.js",
+		"/C/xampp/htdocs/myWeb/signupAction.php",
+		"/C/xampp/htdocs/myWeb/signUp.php",
+		"/C/xampp/htdocs/angular/index.html",
+		"/C/xampp/htdocs/project/projectlogin.php",
+		"/C/xampp/htdocs/forum/form20.htm",
+		"/C/xampp/htdocs/khoj/style.css",
+		"/C/xampp/htdocs/angular/style.css",
+		"/C/Users/HP/Desktop/demo/js/jquery-1.10.2.min.js",
+		"/C/xampp/htdocs/myWeb/signup.js",
+		"/C/xampp/htdocs/myWeb/css/signup.css",
+		"/C/xampp/htdocs/myWeb/css/style.css",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/HP/findmatch/index.php",
+		"/C/xampp/htdocs/project/loginstyle.css",
+		"/C/xampp/htdocs/htmlgame/he.html",
+		"/C/xampp/htdocs/htmlgame/he.js",
+		"/C/Users/HP/Desktop/hackathon/manifest.yml",
+		"/C/xampp/htdocs/angular/service1.js",
+		"/C/xampp/htdocs/angular/controller.js",
+		"/C/Users/HP/Desktop/demo/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\docs\\node\\node_test_app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var xmlhttp = new XMLHttpRequest();\n        \n        xmlhttp.open(\"GET\", medicine_suggestions, true);\n        xmlhttp.setRequestHeader('Access-Control-Allow-Headers', '*');\n        xmlhttp.send();\n        xmlhttp.onreadystatechange = function() {\n            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {\n                \n              console.log(xmlhttp.responseText);\n            }\n        }\n       console.log(xmlhttp.responseText);\n    ",
+			"// var xmlhttp = new XMLHttpRequest();\n        \n  //       xmlhttp.open(\"GET\", medicine_suggestions, true);\n  //       xmlhttp.setRequestHeader('Access-Control-Allow-Headers', '*');\n  //       xmlhttp.send();\n  //       xmlhttp.onreadystatechange = function() {\n  //           if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {\n                \n  //             console.log(xmlhttp.responseText);\n  //           }\n  //       }\n",
+			" // var xmlhttp = new XMLHttpRequest();\n        \n   //      xmlhttp.open(\"GET\", medicine_suggestions, true);\n   //      xmlhttp.setRequestHeader('Access-Control-Allow-Headers', '*');\n   //      xmlhttp.send();\n   //      xmlhttp.onreadystatechange = function() {\n   //          if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {\n                \n   //            console.log(xmlhttp.responseText);\n   //          }\n   //      }\n     //   console.log(xmlhttp.responseText);",
+			"  var xmlhttp = new XMLHttpRequest();\n        \n        xmlhttp.open(\"GET\", medicine_suggestions, true);\n        xmlhttp.setRequestHeader('Access-Control-Allow-Headers', '*');\n        xmlhttp.send();\n        xmlhttp.onreadystatechange = function() {\n            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {\n                \n              console.log(xmlhttp.responseText);\n            }\n        }",
+			"var xmlhttp = new XMLHttpRequest();\n        \n        xmlhttp.open(\"GET\", medicine_suggestions, true);\n        xmlhttp.setRequestHeader('Access-Control-Allow-Headers', '*');\n        xmlhttp.send();\n        xmlhttp.onreadystatechange = function() {\n            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {\n                \n              console.log(xmlhttp.responseText);\n            }\n        }",
+			"$.ajax({\n\n    url: medicine_suggestions ,\n\n    type: 'get',\n    crossDomain: true,\n    dataType: 'jsonp',\n    \n    jsonpCallback: 'callback',\n    success: function(data ) { \n    var abc = JSON.parse(data);\n      console.log(abc.status);\n       },\n    error: function(err) { console.log(err); },\n    beforeSend: function(){\n     // Handle the beforeSend event\n   }\n    ",
+			" var medicine_alternatives = \"http://www.truemd.in/api/medicine_alternatives/?id=\" +  disease + \n    \"&key=d29b1e6837deea39d2b59be03671c9&limit=5\"; ",
+			"var medicine_details = \"http://www.truemd.in/api/medicine_details/?id=\" +  disease + \n    \"&key=d29b1e6837deea39d2b59be03671c9&limit=5\"; \n",
+			" var medicine_alternatives = \"http://www.truemd.in/api/medicine_alternatives/?id=\" +  disease + \n    \"&key=d29b1e6837deea39d2b59be03671c9&limit=5\"; ",
+			"   var medicine_details = \"http://www.truemd.in/api/medicine_details/?id=\" +  disease + \n    \"&key=d29b1e6837deea39d2b59be03671c9&limit=5\"; \n",
+			" $.get( medicine_alternatives ,function  (data , status) {\n     // body...  \n       console.log(data );\n       console.log(status);\n   });",
+			" $.get( medicine_details,function  (data , status) {\n     // body...  \n       console.log(data );\n       console.log(status);\n   });",
+			"FB.api('/me?fields=age_range,name,location,hometown,email,gender', function(response) {\n      console.log('Successful login for: ... '  +  \"  \" + \" \"  +\"  \"+ response.email + \" \" + response.id );\n\n     console.log(response.location.name +\"  locstion   \")\n       var  details =    JSON.parse(response);\n\n      console.log(details);",
+			"//var  details =    JSON.parse(response);\n\n       //console.log(details);\n",
+			"function downloadCanvas(link, canvasId, filename) {\n    \n    var url = $()\n 	$(link).attr(\"href\", \"http://www.google.com/\")\n  //  link.href = document.getElementById(canvasId).toDataURL();\n    link.download = filename;\n\n    console.log(\"reaching here in download \");\n}\n ",
+			" document.getElementById('download').addEventListener('click', function() {\n    downloadCanvas(this, 'c', 'test.png');\n\n    console.log(\"reaching here\");\n}, false);\n",
+			"var link = document.createElement('a');\n link.innerHTML = c.toDataURL();\n link.addEventListener('click', function(ev) {\n    link.href = c.toDataURL();\n    link.download = \"mypainting.png\";\n}, false);\ndocument.body.appendChild(link);",
+			"disqus.request('posts/list', { forum : 'foo'}, function(data) {\n    // if (data.error) {\n    //     console.log('Something went wrong...');\n    // } else {\n    //     console.log(data);\n    // }\n    // });\n\n",
+			"disqus.request('posts/list', { forum : 'foo'}, function(data) {\n    if (data.error) {\n        console.log('Something went wrong...');\n    } else {\n        console.log(data);\n    }\n    });\n\n",
+			"else",
+			"if(sess.username)\n	{\n\n		console.log(\" session exist \");\n		var user = sess.username;\n		res.render('home' , { \"username\" : user });\n	}\n	else",
+			"console",
+			"// grid[myx][myy]=0;\n     //                myx=i; myy=j;\n     //                grid[i][j]=me;\n\n     //                cout<<i<<\" \"<<j<<endl;\n     //                flag1=1;",
+			" grid[myx][myy]=0;\n                    myx=i; myy=j;\n                    grid[i][j]=me;\n\n                    cout<<i<<\" \"<<j<<endl;\n                    flag1=1;\n",
+			"for(x in value)\n				console.log(value[x].tweet);",
+			"// collection.find({}, { tweet : 1}).limit(5).sort({ _id : -1 }).toArray(function(err , result){\n	  				 	\n	  				 // 	//console.log(\" result  \" , result);\n	  				 // 	 listTweets.push.apply(listTweets , result);\n\n	  				 // 	// console.log(\" a \"  , listTweets );\n\n",
+			"\n	  				 collection.find({}, { tweet : 1}).limit(5).sort({ _id : -1 }).toArray(function(err , result){\n	  				 	\n	  				 	//console.log(\" result  \" , result);\n	  				 	 listTweets.push.apply(listTweets , result);\n\n	  				 	// console.log(\" a \"  , listTweets );\n\n\n\n	  				 });",
+			"for(x in result){\n 		      	     	   usersList.push.apply(usersList , result[x].username);\n 		      	     	   console.log( \" usersList \" ,usersList);	\n 		      	     }\n",
+			" var cursor = collection.find({}, { tweet : 1});         // result me answer aa rha hai\n\n	  			 var docs = cursor.toArray();\n\n	  			 \n	  			 {\n	  			 	  console.log(docs ,\" ds\" );\n	  			 }",
+			"var collection = db.collection('users');\n\n 		collection.find().limit(3).toArray( function(err , result){\n\n 			if(err)\n 			{\n 				console.log(err);\n 			}\n\n 			// console.log(result);\n\n 			//res.contentType('json');\n  			//res.render('/js/peopleknow.js', {name : result });\n\n  			res.writeHead(200, { 'Content-Type': 'application/json' }); \n      		res.end(JSON.stringify(result));\n\n 		})",
+			" console.log(myCursor.next());\n			\n  			   var value = myCursor.toArray();\n  			   console.log(value);\n 		\n        ",
+			"$(\".people p\").click(function(e){\n\n    	e.preventDefault();\n           \n    	 console.log(\" IN THIS  code\")\n    	 var value=  $(this).html();\n    	 console.log(\" button value is \"  , value);\n    });",
+			" // collection.insert( data , function( err, result){\n\n		 // 		if(err)\n		 // 			console.log(err);\n\n\n		 // 			console.log(\" tweet is inserted into the db \");\n\n\n		 // })\n",
+			" $(\".people p\").click(function(e){\n\n    	e.preventDefault();\n           \n    	 console.log(\" IN THIS  code\")\n    	 var value=  $(this).html();\n    	 console.log(\" button value is \"  , value);\n    });\n",
+			"// $(\":button\").click(function(){\n\n    // 	 console.log(\" IN THIS  code\")\n    // 	 var value=  $(this).val();\n    // 	 console.log(\" button value is \"  , value);\n    // });",
+			"$(\":button\").click(function(){\n\n    	 console.log(\" IN THIS  code\")\n    	 var value=  $(this).val();\n    	 console.log(\" button value is \"  , value);\n    });",
+			"//    function actionClick() {\n    //   // body...\n\n    //   console.log(\" this is responding\");\n    // }\n\n    // </script>\n       ",
+			"// <script type=\"text/javascript\">\n    //    function actionClick() {\n    //   // body...\n\n    //   console.log(\" this is responding\");\n    // }\n\n    // </script>",
+			" <script type=\"text/javascript\">\n       function actionClick() {\n      // body...\n\n      console.log(\" this is responding\");\n    }\n\n    </script>",
+			"\");\n",
+			"width: 100%;",
+			"width",
+			"$(\"#logout\").click(function(event){\n     event.preventDefault();\n     window.location=\"logout.php\";\n\n\n   });\n",
+			"if(is_null($result))\n{\n   $pdf->Cell(10, 6, 'NAdjdnjfjkdnME', 1, 5, 'L', 1);   // to check reult value\n   \n}",
+			"if(!is_null($row))\n   {\n      $pdf->Cell(100, 12, 'NAdjd', 1, 0, 'L', 1);\n \n   }",
+			" $pdf->SetY($y_axis_initial);\n        $pdf->SetX(25);\n        $pdf->Cell(30, 6, 'CODE', 1, 0, 'L', 1);\n        $pdf->Cell(100, 6, 'NAME', 1, 0, 'L', 1);\n        $pdf->Cell(30, 6, 'PRICE', 1, 0, 'R', 1);",
+			"$sql = \"INSERT INTO `resume`(`id`, `name`, `degree`, `email`, `phone`, `dob`, `college`, `objective`, `skills`, `interest`, `projectName`, `details`)\n VALUES (NULL,'$_POST[name]','$_POST[degree]','$_POST[email]','$_POST[phone]','$_POST[dob]','$_POST[college]','$_POST[objective]',\n 	'$_POST[skill]','$_POST[interest]','$_POST[projectName]','$_POST[projectDetail]')\";\n\nmysqli_query($conn, $sql);",
+			"* {\n    padding: 0;\n    margin: 0;\n}\n",
+			"//     class: 'projectDetail',\n    //     placeholder : \" write project details here\",\n        \n    //     name : \"projectDetail\"\n        \n    //     }),$('<br>',{}),\n  	\n",
+			" $('<textarea />', {\n        class: 'projectDetail',\n        placeholder : \" write project details here\",\n        \n        name : \"projectDetail\"\n        \n        }),$('<br>',{}),\n  	",
+			"//   var diolog = document.getElementById('signDiolog');\n\n  //   diolog.hideModel();\n\n  //   // body...\n  // });\n	",
+			"$('#close').click(function  () {\n    \n    var diolog = document.getElementById('signDiolog');\n\n    diolog.hideModel();\n\n    // body...\n  });",
+			"     \n",
+			"}*/",
+			"#degree,#phone{\n	margin-left:  60px;\n}",
+			"app.factory('service1',function  () {\n\n      \n     var show = function  (argument) {\n     	// body...\n     	return 4;\n     } \n     // this.show= function  ($window) {\n     // 	// body...\n     	\n     // 	console.log(\" this \" + this);\n     // 	 return $window.alert(\"hello\");\n     // } \n	\n});\n",
+			" this.show= function  ($window) {\n     	// body...\n     	\n     	console.log(\" this \" + this);\n     	 return $window.alert(\"hello\");\n     } ",
+			"app.factory('service1',function  () {\n\n      \n     this.show= function  ($window) {\n     	// body...\n     	\n     	console.log(\" this \" + this);\n     	 return $window.alert(\"hello\");\n     } \n	// body...\n});",
+			" \n",
+			" response.first_name + response.id +  \"  \" + response.email",
+			"// var varname = '<?php echo $_SESSION[\"count\"]; ?>';\n         \n       //  var levelCheck= \"level\"+varname+\".php\";\n\n\n     // window.open(levelCheck,\"_self\");\n\n",
+			"  console.log('Successful login for: ... ' + response.name  + response.first_name + response.id +  \"  \" + response.emal);\n     // var varname = '<?php echo $_SESSION[\"count\"]; ?>';\n         \n       //  var levelCheck= \"level\"+varname+\".php\";\n\n\n     // window.open(levelCheck,\"_self\");",
+			" if(i%2==1)\n  	$(this).animate({width:'53'},1500);\n    else\n    $(this).animate({width:'212'},1500);\n\n\n    i++;\n    \n",
+			"text-align: right;",
+			"// FileInputStream fin = new FileInputStream(\"hell.txt\");\n\n        // int size= fin.available();\n\n        // byte b = new byte[size];\n\n        // String s= new String(b);\n\n\n        // System.out.println(s);\n\n        // fin.close();\n",
+			" FileInputStream fin = new FileInputStream(\"hell.txt\");\n\n        int size= fin.available();\n\n        byte b = new byte[size];\n\n        String s= new String(b);\n\n\n        System.out.println(s);\n\n        fin.close();",
+			" File fn[]=f.listFiles();\n\n        for(File ff: fn)\n        {\n\n        	System.out.println(ff.getName());\n\n        	System.out.println(ff.getPath());\n        }",
+			"f2.delete();\n        f1.delete();\n        f.delete();",
+			"		\n",
+			"File f= new  File(\"a2\");\n\n	//	f.createNewFile();\n\n        f.mkdir();\n\n        File f1= new File(f,\"myfile.txt\");\n\n        f1.createNewFile();\n		System.out.println(\" file exists \" + f.exists()  + \"  \" + f.isDirectory() + \"  \" + f.isFile());\n\n		",
+			"  \n",
+			"<script type=\"text/javascript\" src=\"http://egorkhmelev.github.com/jslider/plugins/google-code-prettify/prettify.js\"></script>\n  <script type=\"text/javascript\" src=\"http://egorkhmelev.github.com/jslider/js/jquery.slider.min.js\"></script>\n  <script type=\"text/javascript\" src=\"http://egorkhmelev.github.com/jslider/js/main.js\"></script>\n",
+			"moven",
+			"moveene",
+			"border: 1px solid #FFCC00 ;\n	background: transparent;",
+			";*/",
+			"border: 1px solid #FFCC00 ;\n	border-radius: 5px ;",
+			"top: 240px;\n    left: 250px;\n    position: absolute;\n    \n	width: 500px;\n	height: 300px;\n	border: 1px solid #FFCC00 ;\n	background: transparent;",
+			"/*padding: 4px;\n	margin-top: 10px;*/",
+			"padding: 4px;\n	margin-top: 10px;",
+			"border: 1px solid rgba(255,255,255,0.6);\n	border-radius: 2px;",
+			"/*.body{\n	position: absolute;\n	top: -20px;\n	left: -20px;\n	right: -40px;\n	bottom: -40px;\n	width: auto;\n	height: auto;\n	background-image: url(\"bg.jpg\");\n	background-size: cover;\n	\n	z-index*/: 0;\n}",
+			".body{\n	position: absolute;\n	top: -20px;\n	left: -20px;\n	right: -40px;\n	bottom: -40px;\n	width: auto;\n	height: auto;\n	background-image: url(\"bg.jpg\");\n	background-size: cover;\n	\n	z-index",
+			"\n	margin: 0;\n	padding: 0;\n	background: #fff;\n\n	color: #fff;\n	font-family: Arial;\n	font-size: 12px;\n",
+			"function statusChangeCallback(response) {\n    console.log('statusChangeCallback');\n    console.log(response);\n    // The response object is returned with a status field that lets the\n    // app know the current login status of the person.\n    // Full docs on the response object can be found in the documentation\n    // for FB.getLoginStatus().\n    if (response.status === 'connected') {\n      // Logged into your app and Facebook.\n      testAPI();\n    } else if (response.status === 'not_authorized') {\n      // The person is logged into Facebook, but not your app.\n      document.getElementById('status').innerHTML = 'Please log ' +\n        'into this app.';\n    } else {\n      // The person is not logged into Facebook, so we're not sure if\n      // they are logged into this app or not.\n      document.getElementById('status').innerHTML = 'Please log ' +\n        'into Facebook.';\n    }\n  }",
+			"/*::-webkit-input-placeholder{\n   color: rgba(173, 222, 239,0.6);\n}\n\n::-moz-input-placeholder{\n   color: rgba(173, 222, 239,0.6);\n}*/\n",
+			"::-webkit-input-placeholder{\n   color: rgba(255,255,255,0.6);\n}\n\n::-moz-input-placeholder{\n   color: rgba(255,255,255,0.6);\n}",
+			"  display: block;\n",
+			".login-card button[type=submit] {\n  width: 100%;\n  display: block;\n  margin-bottom: 10px;\n  position: relative;\n}",
+			"  background: url(http://ginva.com/wp-content/uploads/2012/07/city-skyline-wallpapers-008.jpg) no-repeat center center fixed; \n",
+			"-webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: cover;",
+			"      // <script src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>\n",
+			"    <input type=\"submit\" name=\"login\" class=\"login login-submit\" value=\"SignUp\">\n",
+			"   <!-- <button type=\"submit\" name=\"button\" class=\"login login-submit\"  id=\"button\">signUp</button> -->\n",
+			"<!--  <input type=\"submit\" name=\"login\" class=\"login login-submit\" value=\"SignUp\"> -->",
+			"<button type=\"submit\" name=\"button\" class=\"login login-submit\"  id=\"button\">signUp</button>",
+			" <input type=\"submit\" name=\"login\" class=\"login login-submit\" value=\"SignUp\">",
+			"$(document).ready(function  () {\n $(\"#signUp\").before(\"<p>new here signUp here ! </p>\");\n 	// body...\n\n});\n",
+			"/*	left: -20px;*/\n",
+			"	/*left*/: -20px;",
+			"left",
+			"// 		\"gender\"=>\"male\",\n    // 		\"address-format\"=>\"freetext\",\n    // 		\"address-freetext\"=>array(\n    //   		\"matching-strategy\"=>\"partial\",\n    //   		\"matching-value\"=>\"70\",\n    //   		\"address-value\"=>$_POST['address'];\n    // 			)\n   	// 		),\n  		// \"location\"=>array(\n    // 		\"type\"=>\"pincode\",\n    // 		\"pincode\"=>\"121106\"\n  		// 	),",
+			"	\"gender\"=>\"male\",\n    		\"address-format\"=>\"freetext\",\n    		\"address-freetext\"=>array(\n      		\"matching-strategy\"=>\"partial\",\n      		\"matching-value\"=>\"70\",\n      		\"address-value\"=>$_POST['address'];\n    			)\n   			),\n  		\"location\"=>array(\n    		\"type\"=>\"pincode\",\n    		\"pincode\"=>\"121106\"\n  			),",
+			" // 		\"gender\"=>\"male\",\n  //   // 		\"address-format\"=>\"freetext\",\n  //   // 		\"address-freetext\"=>array(\n  //   //   		\"matching-strategy\"=>\"partial\",\n  //   //   		\"matching-value\"=>\"70\",\n  //   //   		\"address-value\"=>$_POST['address'];\n  //   // 			)\n  //  	// 		),\n  // 		// \"location\"=>array(\n  //   // 		\"type\"=>\"pincode\",\n  //   // 		\"pincode\"=>\"121106\"\n  // 		// 	),\n		// )",
+			" // 		\"gender\"=>\"male\",\n    // 		\"address-format\"=>\"freetext\",\n    // 		\"address-freetext\"=>array(\n    //   		\"matching-strategy\"=>\"partial\",\n    //   		\"matching-value\"=>\"70\",\n    //   		\"address-value\"=>$_POST['address'];\n    // 			)\n   	// 		),\n  		// \"location\"=>array(\n    // 		\"type\"=>\"pincode\",\n    // 		\"pincode\"=>\"121106\"\n  		// 	),\n		)",
+			"),\n",
+			"\"gender\"=>\"male\",\n    		\"address-format\"=>\"freetext\",\n    		\"address-freetext\"=>array(\n      		\"matching-strategy\"=>\"partial\",\n      		\"matching-value\"=>\"70\",\n      		\"address-value\"=>$_POST['address'];\n    			)\n   			),\n  		\"location\"=>array(\n    		\"type\"=>\"pincode\",\n    		\"pincode\"=>\"121106\"\n  			),",
+			"in</h1>\n<form action=\"\" method=\"POST\">\n    <p><label>User Name : </label>\n	<input id=\"username\" type=\"text\" name=\"username\" placeholder=\"username\" /></p>\n \n     <p><label>Password&nbsp;&nbsp; : </label>\n	 <input id=\"password\" type=\"password\" name=\"password\" placeholder=\"password\" /></p>\n \n    <a class=\"b",
+			"head>\n<title>CodingCyber - Simple Login Script</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" />\n</head>\n<body",
+			"if (isset($_SESSION['username'])){\n$username = $_SESSION['username'];\necho \"Hai \" . $username . \"\n\";\necho \"This is the Members Area\n\";\necho \"<a href='logout.php'>Logout</a>\";\n ",
+			"htm",
+			"car"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

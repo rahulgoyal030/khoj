@@ -13,15 +13,17 @@
 <script>
   // This is called with the results from from FB.getLoginStatus().
   function statusChangeCallback(response) {
-    console.log('statusChangeCallback');
-    console.log(response);
+   // console.log('statusChangeCallback');
+   // console.log(response);
     // The response object is returned with a status field that lets the
     // app know the current login status of the person.
     // Full docs on the response object can be found in the documentation
     // for FB.getLoginStatus().
     if (response.status === 'connected') {
+      var accessToken = response.authResponse.accessToken;
 
-      // Logged into your app and Facebook.
+      console.log("toke = " + accessToken);
+      // Logged into your api`p and Facebook.
       testAPI();
     } else if (response.status === 'not_authorized') {
       // The person is logged into Facebook, but not your app.
@@ -82,10 +84,16 @@
   // successful.  See statusChangeCallback() for when this call is made.
   function testAPI() {
     console.log('Welcome!  Fetching your information.... ');
-    FB.api('/me', function(response) {
-      console.log('Successful login for: ... ' + response.name + "  " + response.email + " " + response.id + " " + response.first_name);
+    FB.api('/me?fields=age_range,name,location,hometown,email,gender', function(response) {
+      console.log('Successful login for: ... '  +  "  " + " "  +"  "+ response.email + " " + response.id + " "  );
 
-      window.open("level1.php","_self");
+   //  console.log( +"  locstion   ")
+     //  var  details =    JSON.parse(response);
+
+     // console.log(details);
+
+
+      window.open("/khoj/level1.php","_self");
     
     });
   }
